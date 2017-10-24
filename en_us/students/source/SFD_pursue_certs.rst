@@ -11,7 +11,8 @@ course, and passing the course. To earn a certificate for a program, you must
 upgrade to the verified track for all the courses in the program, and pass all
 the courses.
 
-This topic describes how to select or change to a certificate track for a course or program, and how to verify your identify for certificates.
+This topic describes how to select or change to the certificate track for a
+course or program, and how to verify your identify for certificates.
 
 .. contents::
   :local:
@@ -67,9 +68,11 @@ follow these steps.
 Upgrade to the Verified Track
 ===============================
 
-Upgrading to the verified track requires that you pay for the certificate and
-verify your identity using a webcam and a photo ID that has your photo and full
-name on the same side.
+Upgrading to the verified track requires two tasks.
+
+*  You pay to upgrade to the verified track.
+*  You complete the ID verification process using a webcam and a photo ID that
+   has your photo and full name on the same side.
 
 To upgrade to the verified track, follow these steps.
 
@@ -81,12 +84,11 @@ To upgrade to the verified track, follow these steps.
    If there is no **Upgrade to Verified Track** option, the enrollment
    deadline for the verified track has passed.
 
-#. Follow the instructions to pay the certificate fee and verify your identity.
-   For more information, see :ref:`Enroll in the Verified Track`.
+#. Follow the instructions to pay the verified track fee and verify your
+   identity. For more information, see :ref:`Enroll in the Verified Track`.
 
-After you submit a payment for the verified track, you can view information
-about that payment at any time. For more information, see :ref:`View Order
-History`.
+After you submit your payment, you can view information about that payment at
+any time. For more information, see :ref:`View Order History`.
 
 If you have questions about changing your enrollment track, contact the edX
 support team at technical@edx.org.
@@ -95,8 +97,9 @@ support team at technical@edx.org.
 Managing Certificate Payments
 ******************************
 
-After you pay for a verified edX certificate, you can review information about
-your payment. Within the deadline period, you can also get a refund.
+After you pay to enroll in the verified track for a course, you can review
+information about your payment. Within the deadline period, you can also get a
+refund.
 
 .. contents::
   :local:
@@ -125,9 +128,9 @@ these steps.
 
    * The name of your course.
    * The date you placed your order.
-   * The total charge for your order, in US dollars (USD).
+   * The total cost of your order.
    * The edX order number.
-   * A link to a receipt for each order.
+   * A link to a receipt for the order.
 
 #. To view information about a specific purchase, locate the transaction that
    you want, and then select **Order Details**.
@@ -152,11 +155,12 @@ To get a refund for a certificate fee, follow the steps for
 After you unenroll, the edX support team will contact you with information
 about receiving your refund.
 
-Optionally, you can
-:ref:`re-enroll in the audit track<Enroll in the Audit Track>` for the course.
+Optionally, you can :ref:`re-enroll in the audit track<Enroll in the Audit
+Track>` for the course.
 
 If you have questions about changing your enrollment track, contact the edX
 support team at technical@edx.org.
+
 
 .. _SFD Verify Your Identity:
 
@@ -168,9 +172,9 @@ When you enroll in the :ref:`verified track<SFD Verified Track>` for a course,
 you must use a webcam to take a photograph of yourself and of a photo ID that
 has your photo and full name on the same side.
 
-You do not have to verify your identity immediately, but you must verify your
-identity before the course ID verification deadline. The deadline appears
-below the name of the course on your dashboard.
+You do not have to verify your identity immediately, but you must do so before
+the course ID verification deadline. The deadline appears below the name of the
+course on your dashboard.
 
 To verify your identity, you use a webcam to take a photo of yourself and of a
 photo ID that has your photo and full name on the same side. EdX encrypts your
@@ -180,8 +184,8 @@ photos and uses the highest levels of security available to protect your data.
   :local:
   :depth: 1
 
-When you verify your identity for an edX course, that verification is effective
-for one year.
+When you verify your identity on edx.org, that verification is effective for one
+year, for all courses.
 
 * If you enroll in the verified track for another course, you pay for that
   course's certificate, but you do not have to verify your identify again.
