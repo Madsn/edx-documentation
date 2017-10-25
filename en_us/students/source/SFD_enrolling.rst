@@ -351,7 +351,14 @@ the program's courses, and view any certificates that you have earned.
 Unenroll from a Course
 ========================
 
-You can drop or unenroll from a course, but it is not necessary to do so. You can simply stop viewing and working in the course, which will remain in the list of courses on your dashboard.
+You can drop or unenroll from a course, but it is not necessary to do so. You
+can simply stop viewing and working in the course, which will remain in the list
+of courses on your dashboard.
+
+If you unenroll from the verified track of a course within 14 days of your
+payment or 14 days after the course start date, whichever is later, you can
+receive a refund for the certificate fee. For more information about getting a
+refund, see :ref:`Get a Refund`.
 
 .. note:: If you unenroll from a course, the course is deleted from
    your dashboard, and you can no longer access course content or information

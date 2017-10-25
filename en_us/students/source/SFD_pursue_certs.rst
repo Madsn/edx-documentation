@@ -76,10 +76,12 @@ Upgrading to the verified track requires two tasks.
 
 To upgrade to the verified track, follow these steps.
 
-#. On the edx.org website, select your public edX username in the top corner of
-   the page. Your dashboard opens with a list of your courses.
+#. On the edx.org website, select your username in the top corner of the page.
 
-#. Under the name of your course select **Upgrade to Verified Track**.
+   Your dashboard opens with a list of your courses.
+
+#. For the course for which you want to upgrade to the verified track, select
+   **Upgrade to Verified Track**.
 
    If there is no **Upgrade to Verified Track** option, the enrollment
    deadline for the verified track has passed.
@@ -90,8 +92,8 @@ To upgrade to the verified track, follow these steps.
 After you submit your payment, you can view information about that payment at
 any time. For more information, see :ref:`View Order History`.
 
-If you have questions about changing your enrollment track, contact the edX
-support team at technical@edx.org.
+For more information about enrollment tracks, see :ref:`Enrollment Tracks`.
+
 
 ******************************
 Managing Certificate Payments
@@ -111,11 +113,10 @@ refund.
 Verify a Payment
 ====================
 
-To verify a payment or review information about your order history, follow
-these steps.
+To verify a payment or review information about payments you have made on
+edx.org, follow these steps.
 
-#. On the edx.org website, select the dropdown menu next to your public edX
-   username.
+#. On the edx.org website, select the dropdown menu next to your username.
 #. Select **Account**.
 
    .. image:: ../../shared/images/account_settings_menu.png
@@ -123,21 +124,23 @@ these steps.
      :alt: The dropdown menu that appears when you select the icon next to your
        username, with the Account option circled.
 
-#. Select **Order History**. The following information displays for each of
-   your edX purchases.
-
-   * The name of your course.
-   * The date you placed your order.
-   * The total cost of your order.
-   * The edX order number.
-   * A link to a receipt for the order.
+#. Select **Order History**.
 
 #. To view information about a specific purchase, locate the transaction that
    you want, and then select **Order Details**.
 
+   The following information displays for each of your edX purchases.
+
+   * The edX order number.
+   * The date you placed your order.
+   * The name of the course.
+   * The price of each item.
+   * The total cost of your order.
+
 If you have a question or an issue with your payment, contact edX at
 billing@edx.org. Include your order number, but **do not include your
 credit card information**.
+
 
 .. _Get a Refund:
 
@@ -149,14 +152,15 @@ Get a Refund
    after your payment or 14 days after the course start date, whichever is
    later. After these dates pass, edX cannot provide a refund.
 
-To get a refund for a certificate fee, follow the steps for
-:ref:`learners:unenrolling from a course<Unenroll from a Course>`.
+To get a refund for a certificate fee within the refund period, follow the steps
+described in :ref:`Unenroll from a Course`.
 
 After you unenroll, the edX support team will contact you with information
 about receiving your refund.
 
-Optionally, you can :ref:`re-enroll in the audit track<Enroll in the Audit
-Track>` for the course.
+Optionally, after you unenroll from the verified track in your course, you can
+:ref:`re-enroll in the audit track<Enroll in the Audit Track>` for the course,
+to take the course without a certificate option.
 
 If you have questions about changing your enrollment track, contact the edX
 support team at technical@edx.org.
