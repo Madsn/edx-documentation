@@ -11,8 +11,10 @@ course, and passing the course. To earn a certificate for a program, you must
 upgrade to the verified track for all the courses in the program, and pass all
 the courses.
 
-This topic describes how to select or change to the certificate track for a
+This topic describes how to enroll in or upgrade to the verified track for a
 course or program, and how to verify your identify for certificates.
+
+For more information about enrollment tracks, see :ref:`Enrollment Tracks`.
 
 .. contents::
   :local:
