@@ -118,8 +118,7 @@ About the Verified Track
 *************************
 
 Many courses offer a verified track in addition to the free audit track. The
-verified track has a fee, and offers a verified certificate when you pass the
-course.
+verified track has a fee, and offers a certificate when you pass the course.
 
 If a course has a verified track, you see a "Verified" indication on the
 course image in the course catalog on edx.org.
@@ -133,10 +132,10 @@ Verified Track>` in the course, you submit payment, and, some time before the
 verification deadline, you must :ref:`verify your identity<SFD Verify Your
 Identity>` using a webcam and a photo ID.
 
-.. note:: The fee for a verified certificate varies by course. The amount of
-   the fee is listed on the About page for that course. The fee helps support
-   edX's mission. If you are unable to pay the certificate fee, you can apply
-   for financial assistance using the `financial assistance application`_.
+.. note:: The fee for the verified track varies by course. The amount of the fee
+   is listed on the About page for that course. The fee helps support edX's
+   mission. If you are unable to pay the verified track fee, you can apply for
+   financial assistance using the `financial assistance application`_.
 
 For a list of all courses that currently offer verified certificates, see the
 `edX course catalog`_. For more information about enrolling in the verified
@@ -305,7 +304,7 @@ To pursue a verified certificate in a course, follow these steps.
    with a "Verified" banner. Select the course that you want to take.
 
 #. On the course About page, review information about the course including the
-   price in US dollars for a verified certificate.
+   price to enroll in the verified track of the course.
 
 #. Select **Enroll Now**.
 
@@ -316,7 +315,7 @@ To pursue a verified certificate in a course, follow these steps.
 
    * Payment is in US dollars.
 
-   * You must pay the certificate fee before you can begin the course.
+   * You must pay the verified track fee before you can begin the course.
 
    * You do not have to verify your identity immediately, but you
      must verify your identity before the course ID verification deadline has
@@ -357,8 +356,8 @@ of courses on your dashboard.
 
 If you unenroll from the verified track of a course within 14 days of your
 payment or 14 days after the course start date, whichever is later, you can
-receive a refund for the certificate fee. For more information about getting a
-refund, see :ref:`Get a Refund`.
+receive a refund for the verified track fee. For more information about getting
+a refund, see :ref:`Get a Refund`.
 
 .. note:: If you unenroll from a course, the course is deleted from
    your dashboard, and you can no longer access course content or information
